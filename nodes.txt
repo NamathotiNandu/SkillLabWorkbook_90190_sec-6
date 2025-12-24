@@ -1,1 +1,2 @@
-The Project demonstrartion basic Git operations
+The Project demonstrartion basic Git operationsgit
+Added new featurendescription.
