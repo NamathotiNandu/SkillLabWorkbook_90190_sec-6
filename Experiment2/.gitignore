@@ -1,0 +1,8 @@
+# Maven
+/target/
+*.log
+
+# IDE files (optional, if using Eclipse/IntelliJ)
+/.idea/
+/*.iml
+*.class
