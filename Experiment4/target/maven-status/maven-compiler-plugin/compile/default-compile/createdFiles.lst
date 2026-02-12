@@ -1,0 +1,4 @@
+com\fsad\config\AppConfig.class
+com\fsad\model\Student.class
+com\fsad\main\StudentXMLMain.class
+com\fsad\main\StudentAnnoMain.class

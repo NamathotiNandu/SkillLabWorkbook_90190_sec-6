@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="student" class="com.fsad.model.Student">
+        <constructor-arg value="1002"/>
+        <constructor-arg value="Ravi"/>
+        <constructor-arg value="Java Full Stack"/>
+        <constructor-arg value="2025"/>
+
+        <property name="course" value="Full Stack Application Development"/>
+        <property name="year" value="2024"/>
+    </bean>
+
+</beans>
